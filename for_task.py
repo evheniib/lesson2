@@ -23,4 +23,4 @@ for s_class in students:
     total_summary += s_class["summary"] 
     print(f"The summary score in {s_class['school_class']} is {s_class['summary']}")
 
-print(f"The total summary is {total_summary}")
+print(f "The total summary is {total_summary}")
